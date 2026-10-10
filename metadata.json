@@ -1,0 +1,6 @@
+{
+  "name": "ROSA Peanut Butter | Pure Peanut Perfection",
+  "description": "Discover ROSA Peanut Butter — a premium peanut butter brand created for delicious everyday moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
